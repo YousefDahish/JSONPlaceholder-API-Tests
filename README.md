@@ -3,7 +3,9 @@
 This project contains a Postman Collection for testing the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) public API.
 
 ##  Project Structure
-- **collections/** → Contains Postman collection JSON file.
+- **Collections/** → Contains Postman collection JSON file.
+- **Bugs/** → Contains bug report.
+- **Reports/** → Contains HTML report file.
 
 ##  How to Run
 
